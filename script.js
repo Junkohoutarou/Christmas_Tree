@@ -61,8 +61,6 @@ var treeBottomPath = getSVGPoints('.treeBottomPath')
 var mainTl = gsap.timeline({delay:0, repeat:0}), starTl;
 
 
-
-
 function flicker(p){
   
   //console.log("flivker")
