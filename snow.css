@@ -16,7 +16,6 @@ html {
     animation: snow 3s linear infinite;
     content: "";
   }
-  
   .snow:after {
     margin-left: -200px;
     opacity: 0.4;
