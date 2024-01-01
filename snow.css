@@ -23,7 +23,6 @@ html {
     animation-direction: reverse;
     filter: blur(3px);
   }
-  
   .snow:before {
     animation-duration: 9s;
     animation-direction: reverse;
