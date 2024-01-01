@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", function() {
   var audio = document.getElementById("audioID");
   audio.autoplay = true;
